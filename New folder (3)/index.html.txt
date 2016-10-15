@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>welcome</title>
+</head>
+<body>
+<img src="">
+<a href="second.html">Second </a>
+
+
+</html>
